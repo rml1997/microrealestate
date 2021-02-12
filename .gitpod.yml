@@ -1,0 +1,3 @@
+tasks:
+  - init: sudo docker-up && ./mre build
+    command: ./mre start
